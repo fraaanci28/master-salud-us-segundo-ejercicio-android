@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DateHourPicker</string>
+    <string name="hour_description">Hora</string>
+</resources>
